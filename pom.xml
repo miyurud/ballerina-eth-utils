@@ -79,6 +79,12 @@
 
 
     <dependencies>
+        <!--<dependency>-->
+            <!--<groupId>info.weboftrust</groupId>-->
+            <!--<artifactId>ld-signatures-java</artifactId>-->
+            <!--<version>0.1-SNAPSHOT</version>-->
+            <!--<scope>compile</scope>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>org.ballerinalang</groupId>
             <artifactId>ballerina-core</artifactId>
