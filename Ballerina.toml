@@ -2,4 +2,10 @@
 org-name= "wso2"
 version= "0.1.0"
 
+[platform]
+target = "java8"
+
+[[platform.libraries]]
+path = "/home/miyurud/git/ballerina-eth-utils-java-3/ballerina-eth-utils-java/target/ballerina-eth-utils-java-1.0-SNAPSHOT.jar"
+
 [dependencies]
